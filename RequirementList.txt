@@ -1,0 +1,13 @@
+Requirement list:
+•	Implement the functionality to store the data locally
+•	Create an LED concept for the Raspberry Pi (RPi) and implement it.
+•	Enable Start/ Stop Recording via the GUI.
+•	The GUI should visualize the received signal and provide the possibility to input some additional data (we need to define what data that will be).
+•	The program should work on Windows 10 64-bit, Linux (Ubuntu 18.04/ 20.04 LTS) and MAC OS.
+•	Python 3. X (we currently use Python 3.7.6, and I would like to upgrade to a higher version if possible. -> You need to check if the libraries allow that).
+•	Use PyQt6 and upgrade existing code to PyQt6.
+•	Program should be installed via the installer (or another easy solution) on all 2 OS.
+•	Integrate the location-finding algorithm that was originally developed by the app team.
+•	Guide the user through the different measurement phases.
+•	Test the app with doctors.
+•	Provide meaningful documentation for users and developers.
