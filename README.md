@@ -1,5 +1,6 @@
 # ADA3
-ADA3 is a cross-platform desktop application that combines multiple GUIs into one application.
+ADA3 is a desktop application which generates reproducible carotid auscultations from CAAS(Computer Assisted Auscultation Systems).
+This is a cross-platform desktop application that combines multiple GUIs into one application.
 While the separate programs have different GUIs, their functionality is in general identical and receive data via Wi-Fi.
 
 The separate programs are listed below.
